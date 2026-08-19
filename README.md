@@ -142,4 +142,3 @@ These boundaries are deliberate. Expanding automatic behavior should require a n
 ## License
 
 Blueprint Merge Doctor is available under the [MIT License](LICENSE).
-

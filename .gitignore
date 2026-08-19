@@ -1,0 +1,27 @@
+# Unreal generated data
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Plugin generated data
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+
+# IDE files
+.vs/
+.vscode/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Local platform files
+.DS_Store
+Thumbs.db
+
+# Local release packages
+Artifacts/

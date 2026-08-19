@@ -1,0 +1,12 @@
+{
+  "FileVersion": 3,
+  "EngineAssociation": "5.5",
+  "Category": "Development",
+  "Description": "Host project for developing and testing Blueprint Merge Doctor.",
+  "Plugins": [
+    {
+      "Name": "BlueprintMergeDoctor",
+      "Enabled": true
+    }
+  ]
+}
